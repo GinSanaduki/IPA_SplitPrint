@@ -11,12 +11,13 @@ https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.2/Reiwa4_
 
 # その他
 
-SC分はここからダウンロードしてください　https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0/IPA_SplitPrint.zip
+SC分はここからダウンロードしてください  
+https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0/IPA_SplitPrint.zip  
 
 
 
 
-NW、DB、PMはここからダウンロードしてください
+NW、DB、PMはここからダウンロードしてください  
 
-https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.1/IPA_SplitPrint_V1.0.0.1.zip
+https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.1/IPA_SplitPrint_V1.0.0.1.zip  
 
