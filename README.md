@@ -2,7 +2,7 @@
 IPAの午後問題の分割印刷用スクリプト
 
 # 2023/04/17 update  
-令和4年春のAP、NW、SCはここから  
+令和5年春のAP、NW、SCはここから  
 https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.4/Reiwa5_Spr_AP_NW_SC.zip  
 
 # 2022/10/10 update  
