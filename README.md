@@ -1,6 +1,10 @@
 # IPA_SplitPrint
 IPAの午後問題の分割印刷用スクリプト
 
+# 2024/08/03 update  
+データベーススペシャリスト試験のER図等だけのPDFはここから  
+https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V.1.0.0.7/20240803_DB_ER_Fig_etc.zip  
+
 # 2024/04/21 update  
 令和6年春のAP、NW、SCはここから  
 https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.6/reiwa6_Spr_AP_NW_SC.zip  
