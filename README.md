@@ -1,6 +1,10 @@
 # IPA_SplitPrint
 IPAの午後問題の分割印刷用スクリプト
 
+# 2025/04/20 update  
+令和7年春のAP、NW、SCはここから  
+https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V1.0.0.6/reiwa6_Spr_AP_NW_SC.zip  
+
 # 2024/10/14 update  
 令和6年秋のAP、DB、PM、SCはここから  
 https://github.com/GinSanaduki/IPA_SplitPrint/releases/download/V.1.0.0.8/reiwa6_Aut_AP_DB_PM_SC.zip  
